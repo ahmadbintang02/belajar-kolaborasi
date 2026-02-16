@@ -1,3 +1,4 @@
 # belajar-kolaborasi
 
-*commit pertama
+* commit pertama
++ commit kedua
